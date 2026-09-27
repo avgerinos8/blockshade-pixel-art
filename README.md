@@ -33,7 +33,7 @@ Clone the repository and build the binary manually:
 
 ```bash
 git clone https://github.com/avgerinos8/blockshade-pixel-art
-cd blockshade
+cd blockshade-pixel-art
 go build -o blockshade
 ./blockshade
 ```
