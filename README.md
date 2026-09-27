@@ -24,7 +24,7 @@ A full-screen Terminal Pixel Art Editor built with Go and [Bubble Tea](https://g
 If you have Go installed, you can download and compile the binary directly from GitHub into your `GOPATH/bin`:
 
 ```bash
-go install github.com/avgerinos8/blockshade@latest
+go install github.com/avgerinos8/blockshade-pixel-art@latest
 ```
 
 ### Option 2: Build from Source
@@ -32,7 +32,7 @@ go install github.com/avgerinos8/blockshade@latest
 Clone the repository and build the binary manually:
 
 ```bash
-git clone https://github.com/avgerinos8/blockshade.git
+git clone https://github.com/avgerinos8/blockshade-pixel-art
 cd blockshade
 go build -o blockshade
 ./blockshade
