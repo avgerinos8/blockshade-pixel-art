@@ -1,7 +1,5 @@
 # BlockShade Pixel Art Editor
 
-![BlockShade Interface](_docs/screenshot01.png)
-
 A full-screen Terminal Pixel Art Editor built with Go and [Bubble Tea](https://github.com/charmbracelet/bubbletea), designed for ANSI block shading (░▒▓██).
 
 ## Features
@@ -13,6 +11,8 @@ A full-screen Terminal Pixel Art Editor built with Go and [Bubble Tea](https://g
 - 📋 **Clipboard Support:** Copy your ASCII/ANSI art to the clipboard or paste directly onto the canvas.
 - ⏪ **Undo / Redo:** Full timeline support. Actions are intelligently grouped, and branching timelines are handled flawlessly.
 - ✨ **Replace Mode (with Organic Dithering):** Replace one character with another across the canvas. Control the replacement chance (e.g., 50%) and choose between random noise, clustered islands (Bilinear Noise), or organic film grain (Interleaved Gradient Noise).
+
+![BlockShade Interface](_docs/screenshot01.png)
 
 ## Requirements
 
