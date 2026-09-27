@@ -1,5 +1,7 @@
 # BlockShade Pixel Art Editor
 
+![BlockShade Interface](_docs/screenshot01.png)
+
 A full-screen Terminal Pixel Art Editor built with Go and [Bubble Tea](https://github.com/charmbracelet/bubbletea), designed for ANSI block shading (░▒▓██).
 
 ## Features
